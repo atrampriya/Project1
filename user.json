@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Priya Atram",
+        "Password": "Pri@750",
+        "Age": 25,
+        "Phone number": "8956231478",
+        "Email ID": "atrampriya50@gmail.com",
+        "Address": "House number 120 Chandrapur",
+        "Order history": {
+            "04-27-2022": [
+                "Aloo paratha",
+                "Upma",
+                "Chilly chana"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Prachi Kove",
+        "Password": "Pra@243",
+        "Age": 20,
+        "Phone number": "7845632145",
+        "Email ID": "koveprachi24@gmail.com",
+        "Address": "House number 7 Yavatmal",
+        "Order history": {
+            "04-27-2022": [
+                "Chilly chana",
+                "Upma"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Riya Meshram",
+        "Password": "Ri@1012",
+        "Age": 22,
+        "Phone number": "9845127456",
+        "Email ID": "meshramriya10@gmail.com",
+        "Address": "House number 50 Gadchiroli",
+        "Order history": {
+            "04-27-2022": [
+                "Upma",
+                "Aloo paratha"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kavita Alam",
+        "Password": "Al@852134",
+        "Age": 27,
+        "Phone number": "7418562394",
+        "Email ID": "kavial4@gmail.com",
+        "Address": "House number 5 Nagpur",
+        "Order history": {
+            "04-27-2022": [
+                "Upma"
+            ]
+        }
+    }
+]

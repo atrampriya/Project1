@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Upma",
+        "no_of_plates": 94,
+        "Price": 40.0,
+        "Discount": "5%"
+    },
+    {
+        "id": 2,
+        "name": "Aloo paratha",
+        "no_of_plates": 117,
+        "Price": 50.0,
+        "Discount": "10%"
+    },
+    {
+        "id": 3,
+        "name": "Chilly chana",
+        "no_of_plates": 138,
+        "Price": 70.0,
+        "Discount": "5%"
+    }
+]
